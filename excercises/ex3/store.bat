@@ -1,0 +1,1 @@
+python -m pynetdicom storescu 127.0.0.1 104 ..\..\data\democases\case1\case1_008.dcm -d

@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Exercise 1",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\excercises\\ex1\\dicomtree2.py",
+            "console": "integratedTerminal",
+            "args": ["data\\democases\\case1\\case1_008.dcm"]
+        },
+        {
+            "name": "Exercise 2",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\excercises\\ex2\\preview.py",
+            "console": "integratedTerminal",
+            "args": ["data\\democases\\case1\\case1_008.dcm"]
+        },
+        {
+            "name": "Exercise 3",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\excercises\\ex3\\storescp.py",
+            "console": "integratedTerminal",
+            "args": []
+        },
+        {
+            "name": "Exercise 4",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\excercises\\ex4_changets\\changets.py",
+            "console": "integratedTerminal",
+            "args": [],
+            "justMyCode": false
+        }
+    ]
+}

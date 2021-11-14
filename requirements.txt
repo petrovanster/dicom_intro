@@ -1,0 +1,3 @@
+pynetdicom
+matplotlib
+python-gdcm

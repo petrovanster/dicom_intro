@@ -1,0 +1,3 @@
+images downloaded from: 
+http://www.rubomedical.com/dicom_files/
+https://www.visus.com/en/downloads/jivex-dicom-viewer.html 
