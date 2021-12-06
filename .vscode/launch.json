@@ -8,9 +8,11 @@
             "name": "Exercise 1",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}\\excercises\\ex1\\dicomtree2.py",
+            "program": "${workspaceFolder}\\excercises\\ex1\\dicomtree.py",
             "console": "integratedTerminal",
-            "args": ["data\\democases\\case1\\case1_008.dcm"]
+            "args": [
+                "data\\democases\\case1\\case1_008.dcm"
+            ]
         },
         {
             "name": "Exercise 2",
@@ -18,7 +20,9 @@
             "request": "launch",
             "program": "${workspaceFolder}\\excercises\\ex2\\preview.py",
             "console": "integratedTerminal",
-            "args": ["data\\democases\\case1\\case1_008.dcm"]
+            "args": [
+                "data\\democases\\case1\\case1_008.dcm"
+            ]
         },
         {
             "name": "Exercise 3",
@@ -36,6 +40,13 @@
             "console": "integratedTerminal",
             "args": [],
             "justMyCode": false
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
         }
     ]
 }
